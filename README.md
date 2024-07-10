@@ -4,5 +4,6 @@
 > npm run dev
 
 # Credentials
-admin@test.com
-password
+
+Login: admin@test.com
+Password: password
